@@ -1,3 +1,5 @@
+<img alt="Coder GIF" src="https://github.com/sanjaymandal3045/sanjaymandal3045/assets/56470929/2006051e-6c9c-4616-b4d7-e0a5faa513ec" style="max-width: 100%;">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sanjay!;I'm+a+trainee-MERN+Stack+Developer+at+BJIT...;I+love+Football,+Anime,+Games...;And+I'm+a+learner+observer..)](https://git.io/typing-svg)
 
 # 💫 About Me:
