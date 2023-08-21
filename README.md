@@ -1,4 +1,5 @@
-<img alt="Coder GIF" src="https://github.com/sanjaymandal3045/sanjaymandal3045/assets/56470929/2006051e-6c9c-4616-b4d7-e0a5faa513ec" style="max-width: 100%;">
+<img align="center" alt="Schleidens" src="https://camo.githubusercontent.com/117d0191569b7e00e69062ce99d26fe9c251dc735c57386b497c75b0b26dda08/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966" data-canonical-src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="width: 100%; height:325px; display: inline-block;" data-target="animated-image.originalImage">
+<!--<img alt="Coder GIF" src="https://github.com/sanjaymandal3045/sanjaymandal3045/assets/56470929/2006051e-6c9c-4616-b4d7-e0a5faa513ec" style="max-width: 100%;"> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sanjay!;I'm+a+trainee-MERN+Stack+Developer+at+BJIT...;I+love+Football,+Anime,+Games...;And+I'm+a+learner+observer..)](https://git.io/typing-svg)
 
@@ -35,6 +36,4 @@ I am currently working at BJIT as a trainee software engineer.<br>I am learning 
 [![](https://visitcount.itsvg.in/api?id=sanjaykumarBJIT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
-
-<img align="center" alt="Schleidens" src="https://camo.githubusercontent.com/117d0191569b7e00e69062ce99d26fe9c251dc735c57386b497c75b0b26dda08/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966" data-canonical-src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="width: 100%; height:350px; display: inline-block;" data-target="animated-image.originalImage">
 
